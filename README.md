@@ -4,8 +4,8 @@ Built using Youtube api and React HOOKS
 
 ## TO RUN 
 
->Clone repository
->cd [your folder name]
+>Clone repository<br>
+>cd [your folder name]<br>
 >Run `npm start`
 
 Runs the app in the development mode.<br>
